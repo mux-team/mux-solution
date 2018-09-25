@@ -17,13 +17,13 @@
 
 ## 功能与交互
 
-- [图片放大浏览](/mux-team/mux-solution/blob/master/interaction/image-view.md)
+- [图片放大浏览](/interaction/image-view.md)
 - 分享组件
 - 横滑卡片
 
 ## 动效与动画
 
-- [转场动效](/mux-team/mux-solution/blob/master/motion/screen-transition.md)
+- [转场动效](/motion/screen-transition.md)
 - 动画图标
 
 ## 无障碍与情感化（待确定）
