@@ -1,0 +1,30 @@
+# Node.js
+/node_modules/
+npm-debug.log
+tmp/
+package-lock.json
+
+# Windows
+Thumbs.db
+
+# Mac
+.DS_Store
+
+# WebStorm
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# vscode
+.vscode/
+
+# Intellij idea
+.idea/
+
+# vim
+*.swp
+
+# proj
+nohup.out
+/dist/

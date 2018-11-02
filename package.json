@@ -1,0 +1,23 @@
+{
+  "name": "mux-solution",
+  "version": "1.0.0",
+  "description": "移动站点体验解决方案旨在提供一系列体验相关的解决方案，让开发者可以以更低成本实现类 APP 的体验效果。",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mux-team/mux-solution.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mux-team/mux-solution/issues"
+  },
+  "homepage": "https://github.com/mux-team/mux-solution#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  }
+}
