@@ -1,11 +1,12 @@
 module.exports = {
-    title: '体验解决方案',
+    title: ' ',
     description: '打造极致的移动站点体验',
     base: '/mux-solution/',
     themeConfig: {
         nav: [
             {text: '首页', link: '/'},
             {text: '文档', link: '/wiki/'},
+            {text: '方案库', link: '/solution/'},
             {text: 'Github', link: 'https://github.com/mux-team/mux-solution'}
         ],
         sidebar: {
