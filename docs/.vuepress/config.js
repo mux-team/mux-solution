@@ -1,6 +1,7 @@
 module.exports = {
     title: '体验解决方案',
     description: '打造极致的移动站点体验',
+    base: '/mux-solution/',
     themeConfig: {
         nav: [
             {text: '首页', link: '/'},
