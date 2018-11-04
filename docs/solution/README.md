@@ -11,7 +11,7 @@
 - [配色工具](/solution/color-tool.html)
 - [栅格工具](/solution/grid-tool.html)
 - [高精度图片](/solution/retina-img.html)
-- [1px 物理像素](/solution/retina-border.html)
+- [半像素](/solution/half-px-border.html)
 - [全面屏适配](/solution/full-display-adaptation.html)
 - [完美 APP icon](/solution/app-icon.html)
 
